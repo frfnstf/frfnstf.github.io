@@ -10,7 +10,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     let word = word_list[Math.floor(Math.random() * word_list.length)];
     let guessed_word_count = 0;
-    console.log(word);
 
     function get_current_array()
     {
