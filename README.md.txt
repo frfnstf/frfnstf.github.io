@@ -1,5 +1,5 @@
 # 6-Letter Wordle
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://youtu.be/Ty_MuHnXgSE
 #### Description:
 This website allows you to play the classic game of "Wordle" with 6 letter answers. Every round, the computer randomly selects a common six letter word from the English dictionary. The goal is to guess that word in 6 tries or less. To do so, the user will input a word. Based off of that guess, the computer will provide some hints to help them reach the correct answer.
 Before doing so, the website will check the input. It will make sure the word is indeed six letters long. After that, it will check to make sure the input is a valid word from the English dictionary. In my code, I have put in a list of almost 30,000 six letter words. The computer will check if the user's guess is included in the list. If the guess successfully goes through both of these, then each of the tiles that display the letters of the word will change color.
